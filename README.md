@@ -1,7 +1,7 @@
 # Super-Peach-Sisters-Game
 TO PLAY:
 1. Clone Repo
-2. Run the Peach Sisters.exe
+2. Run the Peach Sisters.exe in the folder
 
 ABOUT THE GAME:
 
