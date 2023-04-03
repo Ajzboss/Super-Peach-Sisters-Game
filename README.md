@@ -3,8 +3,11 @@ TO PLAY:
 1. Clone Repo
 
 $ git clone git@github.com:onlypham/super-peach.git
+
 $ cd super-peach
+
 $ cd peach
+
 2. Run the Peach Sisters.exe in the folder
 
 ABOUT THE GAME:
