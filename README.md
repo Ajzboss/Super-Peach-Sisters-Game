@@ -1,6 +1,7 @@
 # Super-Peach-Sisters-Game
 TO PLAY:
 1. Clone Repo
+
 $ git clone git@github.com:onlypham/super-peach.git
 $ cd super-peach
 $ cd peach
